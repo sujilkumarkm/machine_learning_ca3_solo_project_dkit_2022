@@ -1,0 +1,7 @@
+EDA
+PCA
+K-MEAN
+K-NN(Moodle)
+
+3 hours
+explanation 200 words
