@@ -24,6 +24,9 @@ Data generation change over in 2 ways,
 An example of such words is \covfefe" which President Trump used in a tweet and became viral. this word was not recorded anywhere ever before until his tweet.
 
 For example, the word iPhone is created in the 2000s.language dataset from 1900, this element does not exist, and hence, it is not measurable.we give it an innitesimal value. This infnitesimal probability helps us use dierent functional forms like the log function without being worried about issues with functional domains.
+
+
+More data leads to higher accuracy of models, in other words, it makes better services. Better services result in higher user engagement which again creates a large amount of data.
  
 
 	
