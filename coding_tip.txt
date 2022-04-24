@@ -1,7 +1,27 @@
-EDA
-PCA
-K-MEAN
+**EDA**
+**PCA**
+**K-MEAN**
 K-NN(Moodle)
 
 3 hours
 explanation 200 words
+
+
+EDA
+PCA-variance
+ON PCA K-mean - display Elbow graph - based on elbow graph devide data into cluster - scatter plot
+KNN Ppaer - Load data, process data, do KNN without
+one columns with 0 and 1 as response variable - oter column as features
+then tell about accuracy
+
+K=Root N
+K = 66 as per advise
+
+
+4 column
+
+one model on KNN vsualize accuracy vs K-value graph
+
+now do PCA KNN on it
+
+now do PCA K-mean and will devide the cluster , do KNN on the cluster
