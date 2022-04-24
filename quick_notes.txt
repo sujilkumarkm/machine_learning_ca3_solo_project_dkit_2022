@@ -1,0 +1,29 @@
+This paper talks about how the business value changes over time when the dataset is sampled from a dynamically changing environment and how this change explains the mixed results seen in the literature.
+
+It's optional to collect a limited amount of data instead of keeping a supply of infinite supply of older(Less relavent) data.
+Some time including the older dataset damage the model accuracy.
+
+Companies collect large amount of data advertisement application does not improve model quality
+
+we fix a model and vary the data generating distribution to study the effect of time-dependency on business value.
+
+we also define new metrics such as \equivalent size" and \eectiveness" to compare the value of datasets sampled from dierent times.
+
+Taking data of telegram is irrelevant when we have voice over IP phones currently
+
+with data from 1960's, if we try to predict consumers iPhone preferance, it would be imposible and illogical
+
+suppose we use letters written a hundred years ago to train a text auto-completion model for smartphones today. In that case, the users will be disappointed since
+the way we write and communicate has fundamentally changed over time which means that the model will suggest words or phrases that we no longer use.
+
+Data generation change over in 2 ways,
+
+1. over time lower probability for historical words and phrases
+2. birth of new words and phrases over time
+
+An example of such words is \covfefe" which President Trump used in a tweet and became viral. this word was not recorded anywhere ever before until his tweet.
+
+For example, the word iPhone is created in the 2000s.language dataset from 1900, this element does not exist, and hence, it is not measurable.we give it an innitesimal value. This infnitesimal probability helps us use dierent functional forms like the log function without being worried about issues with functional domains.
+ 
+
+	
